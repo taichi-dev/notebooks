@@ -1,0 +1,7 @@
+name: taichi-examples
+channels:
+  - defaults
+  - taichi
+
+dependencies:
+  - taichi
