@@ -1,7 +1,0 @@
-name: taichi-examples
-channels:
-  - defaults
-
-dependencies:
-  - taichi
-  - pillow
