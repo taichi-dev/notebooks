@@ -1,7 +1,6 @@
 name: taichi-examples
 channels:
   - defaults
-  - taichi
 
 dependencies:
   - python==3.8
